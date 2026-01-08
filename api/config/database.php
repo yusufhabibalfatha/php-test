@@ -1,9 +1,9 @@
 <?php
 
 $host = 'localhost';
-$db   = 'belajar_api';
-$user = 'root';
-$pass = '';
+$db   = 'u943973772_phptest';
+$user = 'u943973772_phptest';
+$pass = 'phptes.T6';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
